@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Patrick+Hand+SC&display=swap');
+
+h1, h2, .navbar-brand, .btn{
+  font-family: "Creepster", "cursive";
+}
+
+p{
+  font-family: "Patrick Hand SC", "cursive";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.u{
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.nav-link{
+  font-family: "Patrick Hand SC", "cursive";
+}
